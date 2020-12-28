@@ -1,7 +1,7 @@
 {
   "name": "forkify",
   "version": "1.0.0",
-  "description": "Search, view, and save recipes",
+  "description": "Search, view, and save recipes.",
   "main": "index.js",
   "scripts": {
     "dev": "webpack --mode development",
